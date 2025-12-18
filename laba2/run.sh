@@ -1,0 +1,6 @@
+python3 D1_AN_PointPendulum.py
+python3 D1_GC_PointPendulum.py
+python3 D1_DAE_PointPendulum.py
+
+python3 D2_DAE_BodyPendulum.py
+python3 D2_GC_BodyPendulum.py
